@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "titulo": "It: A Coisa",
+    "lancamento": 2017,
+    "thumb": "it.jpg",
+    "diretor": "Andy Muschietti",
+    "atores": [
+      "Bill Skarsgard",
+      "Jaeden Martell",
+      "Finn Wolfhard",
+      "Sophia Lillis",
+      "Jeremy Ray Taylor"
+    ],
+    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "rating": 0,
+    "genero": "Terror"
+  },
+  {
+    "id": 2,
+    "titulo": "It: A Coisa",
+    "lancamento": 2017,
+    "thumb": "it.jpg",
+    "diretor": "Andy Muschietti",
+    "atores": [
+      "Bill Skarsgard",
+      "Jaeden Martell",
+      "Finn Wolfhard",
+      "Sophia Lillis",
+      "Jeremy Ray Taylor"
+    ],
+    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "rating": 0,
+    "genero": "Terror"
+  },
+  {
+    "id": 3,
+    "titulo": "It: A Coisa",
+    "lancamento": 2017,
+    "thumb": "it.jpg",
+    "diretor": "Andy Muschietti",
+    "atores": [
+      "Bill Skarsgard",
+      "Jaeden Martell",
+      "Finn Wolfhard",
+      "Sophia Lillis",
+      "Jeremy Ray Taylor"
+    ],
+    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "rating": 0,
+    "genero": "Comédia"
+  },
+  {
+    "id": 4,
+    "titulo": "It: A Coisa",
+    "lancamento": 2017,
+    "thumb": "it.jpg",
+    "diretor": "Andy Muschietti",
+    "atores": [
+      "Bill Skarsgard",
+      "Jaeden Martell",
+      "Finn Wolfhard",
+      "Sophia Lillis",
+      "Jeremy Ray Taylor"
+    ],
+    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "rating": 0,
+    "genero": "Aventura"
+  }
+]
