@@ -22,3 +22,19 @@
   background-color: red;
   height: 50vh;
 }
+
+.containerForm {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.listComments {
+  display: flex;
+  flex-direction: column;
+}
