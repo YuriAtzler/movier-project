@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "It: A Coisa",
     "lancamento": 2017,
-    "thumb": "it.jpg",
+    "thumb": "it-a-coisa.jpg",
     "diretor": "Andy Muschietti",
     "atores": [
       "Bill Skarsgard",
@@ -18,53 +18,291 @@
   },
   {
     "id": 2,
-    "titulo": "It: A Coisa",
-    "lancamento": 2017,
-    "thumb": "it.jpg",
-    "diretor": "Andy Muschietti",
+    "titulo": "O Iluminado",
+    "lancamento": 1980,
+    "thumb": "o-iluminado.jpg",
+    "diretor": "Stanley Kubrick",
     "atores": [
-      "Bill Skarsgard",
-      "Jaeden Martell",
-      "Finn Wolfhard",
-      "Sophia Lillis",
-      "Jeremy Ray Taylor"
+      "Danny Lloyd",
+      "Jack Nicholson",
+      "Scatman Crothers",
+      "Shelley Duvall",
+      "Alison Coleridge"
     ],
-    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "sinopse": "Durante o inverno, um homem, é contratado para ficar como vigia em um hotel no Colorado, e vai para lá com a mulher e seu filho. Porém, o contínuo isolamento começa a lhe causar problemas mentais sérios e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.",
     "rating": 0,
     "genero": "Terror"
   },
   {
     "id": 3,
-    "titulo": "It: A Coisa",
-    "lancamento": 2017,
-    "thumb": "it.jpg",
-    "diretor": "Andy Muschietti",
+    "titulo": "Eu Sou a Lenda",
+    "lancamento": 2007,
+    "thumb": "eu-sou-a-lenda.jpg",
+    "diretor": "Francis Lawrence II",
     "atores": [
-      "Bill Skarsgard",
-      "Jaeden Martell",
-      "Finn Wolfhard",
-      "Sophia Lillis",
-      "Jeremy Ray Taylor"
+      "Will Smith",
+      "Alexander DiPersia",
+      "Alice Braga",
+      "Charlie Tahan",
+      "Dash Mihok"
     ],
-    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "sinopse": "Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Portanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente.",
     "rating": 0,
-    "genero": "Comédia"
-  },
-  {
+    "genero": "Terror"
+},
+{
     "id": 4,
-    "titulo": "It: A Coisa",
-    "lancamento": 2017,
-    "thumb": "it.jpg",
-    "diretor": "Andy Muschietti",
+    "titulo": "Guerra Mundial Z",
+    "lancamento": 2013,
+    "thumb": "guerra-mundial-z.jpg",
+    "diretor": "Marc Forster",
     "atores": [
-      "Bill Skarsgard",
-      "Jaeden Martell",
-      "Finn Wolfhard",
-      "Sophia Lillis",
-      "Jeremy Ray Taylor"
+      "Brad Pitt",
+      "James Badge Dale",
+      "Mireille Enos",
+      "Abigail Hargrove",
+      "Ann Ogbomo"
     ],
-    "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
+    "sinopse": "Quando uma doença devastadora se espalha pelo mundo, transformando a população em zumbis, o governo americano recruta o ex-investigador da ONU (Organização das Nações Unidas) Gerry Lane (Brad Pitt) para tentar descobrir o que está acontecendo, e ajudar a salvar a humanidade, considerando que a situação é a pior possível. Assim, ele precisa ir atrás do Paciente Zero, buscar entender as causas do contágio e correr contra o tempo nessa investigação epidemiológica.",
     "rating": 0,
-    "genero": "Aventura"
-  }
+    "genero": "Terror"
+},
+{
+    "id": 5,
+    "titulo": "Psicose",
+    "lancamento": 1960,
+    "thumb": "psicose.jpg",
+    "diretor": "Alfred Hitchcock",
+    "atores": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles",
+      "Alfred Hitchcock",
+      "Frank Albertson I"
+    ],
+    "sinopse": "Marion Crane rouba a firma em que trabalha e foge para recomeçar sua vida. Uma tempestade a faz parar num hotel de beira de estrada, onde é recebida pelo estranho, porém afável, Norman Bates, que cuida do lugar. Quando Marion desaparece, sua irmã e o amante decidem investigar.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 6,
+    "titulo": "Os Outros",
+    "lancamento": 2001,
+    "thumb": "os-outros.jpg",
+    "diretor": "Alejandro Amenábar",
+    "atores": [
+      "Alakina Mann",
+      "Fionnula Flanagan",
+      "James Bentley",
+      "Nicole Kidman",
+      "Aldo Grilo"
+    ],
+    "sinopse": "Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 7,
+    "titulo": "Corra",
+    "lancamento": 2017,
+    "thumb": "corra.jpg",
+    "diretor": "Jordan Peele",
+    "atores": [
+      "Allison Williams",
+      "Caleb Landry Jones",
+      "Catherine Keener",
+      "Daniel Kaluuya",
+      "Lakeith Stanfield"
+    ],
+    "sinopse": "Chris (Daniel Kaluuya) é jovem negro que está prestes a conhecer a família de sua namorada caucasiana Rose (Allison Williams). A princípio, ele acredita que o comportamento excessivamente amoroso por parte da família dela é uma tentativa de lidar com o relacionamento de Rose com um rapaz negro, mas com o tempo, Chris percebe que a família esconde algo muito mais perturbador.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 8,
+    "titulo": "Constantine",
+    "lancamento": 2005,
+    "thumb": "constantine.jpg",
+    "diretor": "Francis Lawrence II",
+    "atores": [
+      "Keanu Reeves",
+      "Rachel Weisz",
+      "Shia LaBeouf",
+      "Tilda Swinton",
+      "Abe Pagtama"
+    ],
+    "sinopse": "",
+    "rating": 0,
+    "genero": ""
+},
+{
+    "id": 9,
+    "titulo": "O Chamado",
+    "lancamento": 2002,
+    "thumb": "o-chamado.jpg",
+    "diretor": "Gore Verbinski",
+    "atores": [
+      "David Dorfman I",
+      "Martin Henderson",
+      "Naomi Watts",
+      "Adam Brody",
+      "Aixa Clemente"
+    ],
+    "sinopse": "Rachel Keller (Naomi Watts) é uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relação da morte dela e de várias outras mortes com um estranho vídeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a história, ela agora precisa descobrir um meio que impeça que a profecia se realize, já que ela e seu filho assistiram ao vídeo.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 10,
+    "titulo": "O Exorcista",
+    "lancamento": 1973,
+    "thumb": "o-exorcista.jpg",
+    "diretor": "William Friedkin",
+    "atores": [
+      "Arthur Storch",
+      "Barton Heyman",
+      "Donna Mitchell",
+      "Eileen Dietz",
+      "Ellen Burstyn"
+    ],
+    "sinopse": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que é também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 11,
+    "titulo": "Invocação do Mal",
+    "lancamento": 2013,
+    "thumb": "invocacao-do-mal.jpg",
+    "diretor": "James Wan",
+    "atores": [
+      "Patric Wilson",
+      "Vera Farmiga",
+      "Amy Tipton",
+      "Ashley White",
+      "Christy Johnson"
+    ],
+    "sinopse": "Baseado em uma história real, o longa se passa em uma casa mal-assombrada, para onde uma família liderada por Lili Taylor e Ron Livingston se muda. Quando fica claro que uma entidade obscura os está perseguindo, eles chamam os investigadores paranormais Ed e Lorraine (Patrick Wilson e Vera Farmiga) para ajudar.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 12,
+    "titulo": "Fragmentado",
+    "lancamento": 2016,
+    "thumb": "fragmentado.jpg",
+    "diretor": "M. Night Shyamalan",
+    "atores": [
+      "Anya Taylor-Joy",
+      "Betty Buckley",
+      "Haley Lu Richardson",
+      "James McAvoy",
+      "Jessica Sula"
+    ],
+    "sinopse": "Kevin (James McAvoy) possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.",
+    "rating": 0,
+    "genero": "Terror"
+},
+{
+    "id": 13,
+    "titulo": "Titanic",
+    "lancamento": 1997,
+    "thumb": "titanic.jpg",
+    "diretor": "James Cameron",
+    "atores": [
+      "Billy Zane",
+      "Frances Fisher I",
+      "Kate Winslet",
+      "Kathy Bates",
+      "Leonardo DiCaprio"
+    ],
+    "sinopse": "Uma expedição aos destroços do Titanic leva uma sobrevivente do naufrágio a relembrar uma grande história de amor que viveu no navio. Em 1912, na única viagem do que então era o maior navio já construído, Rose (Winslet) é uma jovem da alta sociedade prestes a se casar com seu rico noivo. Mas a bordo do Titanic ela conhece Jack Dawson (DiCaprio), um jovem simples e aventureiro, e se apaixona pelo rapaz. As diferenças sociais fazem com que muitos se oponham ao relacionamento que surge. Em meio ao intenso romance e à rebeldia dos dois, acontece o trágico acidente, que eles enfrentam juntos.",
+    "rating": 0,
+    "genero": "Romance"
+},
+{
+    "id": 14,
+    "titulo": "As Vantagens de Ser Invisível",
+    "lancamento": 2012,
+    "thumb": "as-vantagens-de-ser-invisivel.jpg",
+    "diretor": "Stephen Chbosky",
+    "atores": [
+      "Emma Watson",
+      "Ezra Miller",
+      "Logan Lerman",
+      "Adam Hagenbuch",
+      "Atticus Cain"
+    ],
+    "sinopse": "Um jovem tímido se esconde em seu próprio mundo até conhecer dois irmãos que o ajudam a viver novas experiências. Embora esteja feliz nessa nova fase, ele não esquece as tristezas do passado, que têm origem em uma chocante revelação.",
+    "rating": 0,
+    "genero": "Romance"
+},
+{
+    "id": 15,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "lancamento": 1994,
+    "thumb": "forrest-gump-o-contador-de-historias.jpg",
+    "diretor": "Robert Zemeckis",
+    "atores": [
+      "Tom Hanks",
+      "Aaron Izbicki",
+      "Aaron Michael Lacey",
+      "Afemo Omilami",
+      "Alexander Zemeckis"
+    ],
+    "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de rapaz com QI abaixo da média que, por obra do acaso, consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate.",
+    "rating": 0,
+    "genero": "Romance"
+},
+{
+    "id": 16,
+    "titulo": "Edward Mãos de Tesoura",
+    "lancamento": 1990,
+    "thumb": "edward-maos-de-tesoura.jpg",
+    "diretor": "Tim Burton",
+    "atores": [
+      "Johnny Depp",
+      "Winona Ryder",
+      "Aaron Lustig",
+      "Alan Arkin",
+      "Alan Fudge"
+    ],
+    "sinopse": "Peg Boggs (Dianne Wiest) é uma vendedora da Avon que acidentalmente descobre Edward (Johnny Depp), um jovem que mora sozinho em um castelo no topo de uma montanha e que na verdade foi criado por um inventor (Vincent Price), que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos, mas ele dá vazão à sua solidão interior ao podar a vegetação em forma de figuras ou esculpir lindas imagens no gelo. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros.",
+    "rating": 0,
+    "genero": "Romance"
+},
+{
+    "id": 17,
+    "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+    "lancamento": 2004,
+    "thumb": "brilho-eterno-de-uma-mente-sem-lembrancas.jpg",
+    "diretor": "Michel Gondry",
+    "atores": [
+      "Elijah Wood",
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo"
+    ],
+    "sinopse": "Ao descobrir que sua ex-namorada se submeteu a um tratamento experimental para apagá-lo de suas lembranças, Joel decide passar pelo mesmo processo. Porém, durante a experiência, ele percebe que não quer esquecê-la.",
+    "rating": 0,
+    "genero": "Romance"
+},
+{
+  "id": 18,
+  "titulo": "A Órfã",
+  "lancamento": 2009,
+  "thumb": "a-orfa.jpg",
+  "diretor": "Jaume Collet-Serra",
+  "atores": [
+    "Isabelle Fuhrman",
+    "Peter Sarsgaard",
+    "Vera Farmiga",
+    "Aryana Engineer",
+    "CCH Pounder"
+  ],
+  "sinopse": "A tragédia parece acompanhar a vida de Esther apesar dos seus 9 anos de idade. Ela é uma órfã russa e a família que a adotou morreu em um incêndio que também quase a matou. Mas agora uma nova família, os Coleman, a adotou e a vida parece ter entrado nos eixos novamente. Até o dia que uma colega de classe de Esther sofre um acidente mais sério, uma freira é golpeada até a morte e a nova mãe da garota começa a se perguntar se a família de Esther realmente morreu em um incêndio acidental.",
+  "rating": 0,
+  "genero": "Terror"
+}
 ]

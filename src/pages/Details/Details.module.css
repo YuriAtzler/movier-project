@@ -1,0 +1,24 @@
+.contentMovie {
+  margin-top: 30px;
+  padding: 20px 40px;
+  background-color: pink;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.contentMovie img {
+  width: 273px;
+  height: 405px;
+}
+
+.detalhes {
+  max-width: 35%;
+}
+
+
+.comments {
+  padding: 30px;
+  background-color: red;
+  height: 50vh;
+}

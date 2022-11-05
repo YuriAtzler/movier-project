@@ -7,23 +7,24 @@ import styles from './App.module.css';
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Categorias from "./pages/Categorias";
+import Details from "./pages/Details";
 
 export default function AppRoutes() {
-    return (
-      <>
-        <BrowserRouter>
+  return (
+    <>
+      <BrowserRouter>
         <Header />
         <div className={styles.containerGlobal}>
-          <Routes > 
+          <Routes >
             <Route path='/' element={<Home />} />
             <Route path='/categorias' element={<Categorias />} />
-            <Route />
+            <Route path='/details' element={<Details />} />
             <Route />
             <Route path="*" element={<NotFound />} />
-          </Routes > 
+          </Routes >
         </div>
         <Footer />
       </BrowserRouter>
-      </>
-    );
-  };
+    </>
+  );
+};
