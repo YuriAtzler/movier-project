@@ -1,13 +1,13 @@
 import styles from "./FilmeCard.module.css";
 
 export default function FilmeCard({ movie }) {
+  var style = {
+    backgroundImage: `url(../../assets/movies/${movie.thumb})`,
+  };
+
   return (
-    <>
-      <img
-        src={require(`../../../public/assets/movies/${movie.thumb}`)}
-        alt="thumb"
-      />
-      <h1>{movie.genero}</h1>
-    </>
+    <div style={style}>
+      <h1>teset</h1>
+    </div>
   );
 }
