@@ -1,15 +1,8 @@
-main {
-  display: grid;
-  grid-template-areas: "content aside";
-  grid-template-columns: 3fr 1fr;
-}
-
-.content {
-  grid-area: "content";
-  background-color: red;
-}
-
-.aside {
-  grid-area: "aside";
-  background-color: blue;
+.containerList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 20px 0;
 }

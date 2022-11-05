@@ -7,7 +7,7 @@ export default function Footer() {
         <>
           <footer className={styles.rodape}>
             <MarcaRegistrada />
-            Movies, 2022 - Todos os direitos reservados.
+            Movier, 2022 - Todos os direitos reservados.
           </footer>
         </>
     );
