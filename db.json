@@ -336,6 +336,210 @@
       "sinopse": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
       "rating": 30,
       "genero": "Comédia"
+    },
+    {
+      "id": 20,
+      "titulo": "Procurando Nemo",
+      "lancamento": 2003,
+      "thumb": "procurando-nemo.jpg",
+      "diretor": "Andrew Stanton",
+      "atores": [
+        "Albert Brooks",
+        "Alexander Gould",
+        "Allison Janney",
+        "Brad Garrett",
+        "Ellen DeGeneres"
+      ],
+      "sinopse": "Quando Nemo, um jovem peixe-palhaço é capturado inesperadamente, seu pai Marlin se vê obrigado a embarcar em uma emocionante aventura de resgate. No caminho ele conhece Dory, uma peixinha muito divertida que vai ajudá-lo a enfrentar tubarões, águas-vivas e muito mais.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 21,
+      "titulo": "Up: Altas Aventuras",
+      "lancamento": 2009,
+      "thumb": "up-altas-aventuras.jpg",
+      "diretor": "Pete Docter",
+      "atores": [
+        "Christopher Plummer",
+        "Edward Asner",
+        "Jordan Nagai",
+        "Bob Bergen",
+        "Bob Peterson (III)"
+      ],
+      "sinopse": "Um velhinho viúvo chamado Carl Fredricksen, com seus setenta e poucos anos de idade, passou a vida sonhando em explorar o planeta e viver plenamente a vida. Até que um plano mirabolante invade sua cabeça teimosa: fazer sua casa inteira levantar voo através de balões e transportá-la dos Estados Unidos a um lugar em meio às montanhas da Venezuela.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 22,
+      "titulo": "Monstros S.A.",
+      "lancamento": 2001,
+      "thumb": "monstros-sa.jpg",
+      "diretor": "Pete Docter",
+      "atores": [
+        "Billy Crystal",
+        "John Goodman",
+        "Ashley Edner",
+        "Bill Farmer (I)",
+        "Bob Bergen"
+      ],
+      "sinopse": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em Pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 23,
+      "titulo": "A Fantástica Fábrica de Chocolate",
+      "lancamento": 2005,
+      "thumb": "a-fantastica-fabrica-de-chocolate.jpg",
+      "diretor": "Tim Burton",
+      "atores": [
+        "Christopher Lee (I)",
+        "David Kelly (I)",
+        "Deep Roy",
+        "Freddie Highmore",
+        "Helena Bonham Carter"
+      ],
+      "sinopse": "Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket (Freddie Highmore), encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há 15 anos. Encantado com as maravilhas da fábrica, Charlie fica cada vez mais fascinado com a visita.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 24,
+      "titulo": "O Rei Leão",
+      "lancamento": 1994,
+      "thumb": "o-rei-leao.jpg",
+      "diretor": "Rob Minkoff",
+      "atores": [
+        "Ernie Sabella",
+        "James Earl Jones",
+        "Jeremy Irons",
+        "Matthew Broderick",
+        "Nathan Lane"
+      ],
+      "sinopse": "Mufasa (James Earl Jones), o Rei Leão, e a rainha Sarabi (Madge Sinclair) apresentam ao reino o herdeiro do trono, Simba (Matthew Broderick). O recém-nascido recebe a bênção do sábio babuíno Rafiki (Robert Guillaume), mas ao crescer é envolvido nas artimanhas de seu tio Scar (Jeremy Irons), o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 25,
+      "titulo": "WALL·E",
+      "lancamento": 2008,
+      "thumb": "wall-e.jpg",
+      "diretor": "Andrew Stanton",
+      "atores": [
+        "Ben Burtt",
+        "Andrew Stanton",
+        "Angus MacLane",
+        "Elissa Knight",
+        "Fred Willard"
+      ],
+      "sinopse": "Após entulhar a Terra de lixo e poluir a atmosfera com gases tóxicos, a humanidade deixou o planeta e passou a viver em uma gigantesca nave. O plano era que o retiro durasse alguns poucos anos, com robôs sendo deixados para limpar o planeta. Wall-E é o último destes robôs, que se mantém em funcionamento graças ao auto-conserto de suas peças. Sua vida consiste em compactar o lixo existente no planeta, que forma torres maiores que arranha-céus, e colecionar objetos curiosos que encontra ao realizar seu trabalho. Até que um dia surge repentinamente uma nave, que traz um novo e moderno robô: Eva. A princípio curioso, Wall-E logo se apaixona pela recém-chegada.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 26,
+      "titulo": "Divertida Mente",
+      "lancamento": 2015,
+      "thumb": "divertida-mente.jpg",
+      "diretor": "Pete Docter",
+      "atores": [
+        "Amy Poehler",
+        "Bill Hader",
+        "Kaitlyn Dias",
+        "Lewis Black",
+        "Mindy Kaling"
+      ],
+      "sinopse": "Crescer pode ser uma jornada turbulenta, e com Riley não é diferente. Ela é retirada de sua vida no meio-oeste americano quando seu pai arruma um novo emprego em São Francisco. Como todos nós, Riley é guiada pelas emoções – Alegria, Medo, Raiva, Nojinho e Tristeza. As emoções vivem no centro de controle dentro da mente de Riley, onde a ajudam com conselhos em sua vida cotidiana. Conforme Riley e suas emoções se esforçam para se adaptar à nova vida em São Francisco, começa uma agitação no centro de controle. Embora Alegria, a principal e mais importante emoção de Riley, tente se manter positiva, as emoções entram em conflito sobre qual a melhor maneira de viver em uma nova cidade, casa e escola.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 27,
+      "titulo": "A Era do Gelo",
+      "lancamento": 2002,
+      "thumb": "a-era-do-gelo.jpg",
+      "diretor": "Carlos Saldanha (I)",
+      "atores": [
+        "Alan Tudyk",
+        "Cedric the Entertainer",
+        "Chris Wedge",
+        "Denis Leary",
+        "Denny Dillon"
+      ],
+      "sinopse": "Em plena Era Glacial, um grupo de animais, incluindo um tigre dentes-de-sabre, um mamute e algumas preguiças gigantes, encontra uma criança perdida. Juntos, eles decidem por procurar a família do menino, para que possam devolvê-lo.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 28,
+      "titulo": "Ratatouille",
+      "lancamento": 2007,
+      "thumb": "ratatouille.jpg",
+      "diretor": "Brad Bird",
+      "atores": [
+        "Lou Romano",
+        "Patton Oswalt",
+        "Andrea Boerries",
+        "Brad Bird",
+        "Brad Garrett"
+      ],
+      "sinopse": "Paris. Remy é um rato que sonha se tornar um grande chef. Só que sua família é contra a idéia, além do fato de que, por ser um rato, ele sempre é expulso das cozinhas que visita. Um dia, enquanto estava nos esgotos, ele fica bem embaixo do famoso restaurante de seu herói culinário, Auguste Gusteau. Ele decide visitar a cozinha do lugar e lá conhece Linguini, um atrapalhado ajudante que não sabe cozinhar e precisa manter o emprego a qualquer custo. Remy e Linguini realizam uma parceria, em que Remy fica escondido sob o chapéu de Linguini e indica o que ele deve fazer ao cozinhar.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 29,
+      "titulo": "Vida de Inseto",
+      "lancamento": 1998,
+      "thumb": "vida-de-inseto.jpg",
+      "diretor": "Andrew Stanton",
+      "atores": [
+        "Alex Rocco",
+        "Andrew Stanton",
+        "Anthony Burch",
+        "Ashley Tisdale",
+        "Bill Farmer (I)"
+      ],
+      "sinopse": "Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. Mas quando algo dá errado e a colheita é destruída, os gafanhotos ameaçam atacar e as formigas são forçadas a pedir ajuda a outros insetos para enfrentá-los numa batalha.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 30,
+      "titulo": "Piratas do Caribe: O Baú da Morte",
+      "lancamento": 2006,
+      "thumb": "piratas-do-caribe-o-bau-da-morte.jpg",
+      "diretor": "Gore Verbinski",
+      "atores": [
+        "Johnny Depp",
+        "Keira Knightley",
+        "Orlando Bloom",
+        "Andy Beckwith",
+        "Ann Channell"
+      ],
+      "sinopse": "Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Holandês Voador, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte, que contém o coração do vilão, para escapar da ameaça.",
+      "rating": 0,
+      "genero": "Aventura"
+    },
+    {
+      "id": 31,
+      "titulo": "Como Treinar o seu Dragão",
+      "lancamento": 2010,
+      "thumb": "como-treinar-o-seu-dragao.jpg",
+      "diretor": "Chris Sanders (II)",
+      "atores": [
+        "Jay Baruchel",
+        "America Ferrera",
+        "Ashley Jensen (I)",
+        "Christopher Mintz-Plasse",
+        "Craig Ferguson"
+      ],
+      "sinopse": "Soluço é um viking adolescente que não combina muito bem com a longa tradição de sua tribo de heróicos matadores de dragões. Seu mundo vira de cabeça para baixo quando ele encontra um dragão que desafia tanto ele quanto seus amigos a encararem o mundo a partir de outro ponto de vista.",
+      "rating": 0,
+      "genero": "Aventura"
     }
   ]
 }
