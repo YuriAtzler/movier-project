@@ -44,16 +44,15 @@ export default function Details() {
     <>
       <div className={styles.contentMovie}>
         <img src={require(`../../../public/assets/movies/${data.thumb}`)} alt="Thumb Movie" />
+
         <div className={styles.detalhes}>
           <h1>{data.titulo} - ({data.lancamento})</h1>
-          <p>{data.genero}</p>
+          <span className={styles.content}>{data.genero}</span>
           <h2>Direção: <span>{data.diretor}</span></h2>
-          <p>Sinopse: {data.sinopse}</p>
-          <div className={styles.likes}>
-            <span>Likes: {rating}</span>
-            <button onClick={like}>Curtir</button>
-          </div>
+          <p className={styles.sinopse}><strong>Sinopse:</strong> {data.sinopse}</p>
         </div>
+
+        
         <div className={styles.atores}>
           <h1>Atores:</h1>
           <ul>
@@ -61,21 +60,29 @@ export default function Details() {
               (<li key={ator}>{ator}</li>)
             ))}
           </ul>
+
+          <div className={styles.likes}>
+            <button onClick={like}> <span>Curtir | {rating}</span></button>            
+          </div>
+
         </div>
       </div>
-      <div className={styles.comments}>
-              <form className={styles.containerForm} onSubmit={handleSubmit(onSubmit)}>
 
+
+
+      <div className={styles.comments}>
+              <h2>Deixe seu comentário:</h2>
+              <form className={styles.containerForm} onSubmit={handleSubmit(onSubmit)}>
                 <div className={styles.field}>
                   <label htmlFor="email">E-mail</label>
-                  <input type="email" placeholder='Digite seu e-mail...' {...register("email")}/>
+                  <input type="email" required placeholder='Digite seu e-mail...' {...register("email")}/>
                 </div>
                 <div className={styles.field}>
                   <label htmlFor="comment">Comentário</label>
-                  <input type="text" placeholder='Digite seu comentário...' {...register("comment")}/>
+                  <input type="text" required placeholder='Digite seu comentário...' {...register("comment")}/>
                 </div>
 
-                <input type="submit" value="Comentar"/>
+                <input className={styles.submit} type="submit" value="Comentar"/>
 
               </form>
 

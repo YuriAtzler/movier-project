@@ -1,5 +1,12 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "email": "gf.oliveiralucas@gmail.com",
+      "comment": "Um comentario pertinente para que tenhamos uma melhor visualização do mesmo",
+      "idMovie": 3,
+      "id": 2
+    }
+  ],
   "movies": [
     {
       "id": 1,
@@ -15,7 +22,7 @@
         "Jeremy Ray Taylor"
       ],
       "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
-      "rating": 57,
+      "rating": 72,
       "genero": "Terror"
     },
     {
@@ -32,7 +39,7 @@
         "Alison Coleridge"
       ],
       "sinopse": "Durante o inverno, um homem, é contratado para ficar como vigia em um hotel no Colorado, e vai para lá com a mulher e seu filho. Porém, o contínuo isolamento começa a lhe causar problemas mentais sérios e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.",
-      "rating": 32,
+      "rating": 192,
       "genero": "Terror"
     },
     {
@@ -49,7 +56,7 @@
         "Dash Mihok"
       ],
       "sinopse": "Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Portanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente.",
-      "rating": 0,
+      "rating": 20,
       "genero": "Terror"
     },
     {
@@ -100,7 +107,7 @@
         "Aldo Grilo"
       ],
       "sinopse": "Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.",
-      "rating": 0,
+      "rating": 5,
       "genero": "Terror"
     },
     {
@@ -236,7 +243,7 @@
         "Atticus Cain"
       ],
       "sinopse": "Um jovem tímido se esconde em seu próprio mundo até conhecer dois irmãos que o ajudam a viver novas experiências. Embora esteja feliz nessa nova fase, ele não esquece as tristezas do passado, que têm origem em uma chocante revelação.",
-      "rating": 0,
+      "rating": 1,
       "genero": "Romance"
     },
     {
