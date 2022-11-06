@@ -18,6 +18,7 @@ export default function Ranking() {
 
   return (
     <>
+      <h1 className={styles.h1}>Filmes mais bem avaliados</h1>
       <div className={styles.containerOrdenado}>
         {ordenado.map((item) => (
            (<FilmeCard key={item.id} movie={item} />) 
