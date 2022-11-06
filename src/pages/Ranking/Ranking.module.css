@@ -5,8 +5,9 @@
 
 .containerOrdenado {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  width: 960px;
+  margin: 0 auto;
   gap: 40px;
   flex-wrap: wrap;
   padding: 20px 0;

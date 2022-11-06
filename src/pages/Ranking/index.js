@@ -1,6 +1,6 @@
 import styles from './Ranking.module.css';
 
-import FilmeCard from '../../components/FilmeCard';
+import RankingCard from '../../components/RankingCard';
 
 import GetMovies from '../../services/getMovies';
 
@@ -20,8 +20,8 @@ export default function Ranking() {
     <>
       <h1 className={styles.h1}>Filmes mais bem avaliados</h1>
       <div className={styles.containerOrdenado}>
-        {ordenado.map((item) => (
-           (<FilmeCard key={item.id} movie={item} />) 
+        {ordenado.map((item, index) => (
+           (<RankingCard key={item.id} movie={item} index={index+1}/>) 
         ))}
       </div>
     </>
