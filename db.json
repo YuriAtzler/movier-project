@@ -313,6 +313,24 @@
       "sinopse": "A tragédia parece acompanhar a vida de Esther apesar dos seus 9 anos de idade. Ela é uma órfã russa e a família que a adotou morreu em um incêndio que também quase a matou. Mas agora uma nova família, os Coleman, a adotou e a vida parece ter entrado nos eixos novamente. Até o dia que uma colega de classe de Esther sofre um acidente mais sério, uma freira é golpeada até a morte e a nova mãe da garota começa a se perguntar se a família de Esther realmente morreu em um incêndio acidental.",
       "rating": 32,
       "genero": "Terror"
-    }
+    },
+    
+    {
+      "id": 19,
+      "titulo": "O Lobo de Wall Street",
+      "lancamento": 2013,
+      "thumb": "o-lobo-de-wall-street.jpg",
+      "diretor": "Martin Scorsese",
+      "atores": [
+        "Leonardo DiCaprio",
+        "Margot Robbie",
+        "Matthew McConaughey",
+        "Rob Reiner",
+        "Aaron Glaser"
+      ],
+      "sinopse": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
+      "rating": 0,
+      "genero": "Comédia"
+  }
   ]
 }
