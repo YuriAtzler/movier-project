@@ -5,7 +5,7 @@
 - <a href="https://github.com/YuriAtzler">Yuri Atzler</a><br>
 - <a href="https://github.com/matxd">Matheus Ryan</a>
 
-## Como rodar o projeto
+# Como rodar o projeto
 - Clone ou baixe o repositório
 - ### `npm i`
 - ### `json-server --watch db.json`
