@@ -10,7 +10,7 @@ import { MoviesContext } from '../../contexts/moviesContexts';
 
 export default function Categorias() {
   const { genero } = useContext(GeneroContext)
- const {movies, setMovies} = useContext(MoviesContext)
+  const {movies, setMovies} = useContext(MoviesContext)
 
   useEffect(() => {
     GetMovies().then((response) => setMovies(response))

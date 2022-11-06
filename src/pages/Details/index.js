@@ -6,6 +6,7 @@ import PostComment from '../../services/postComment';
 import GetComments from '../../services/getComments';
 import { useState, useEffect } from 'react';
 import PostLike from '../../services/postLike';
+import DeleteComment from "../../services/DeleteComment";
 
 export default function Details() {
   const localizacao = useLocation();
@@ -31,6 +32,12 @@ export default function Details() {
       //crime
       GetComments(data.id).then((response) => setComments(response));
     });
+  }
+
+  const deleteF = (id) => {
+   DeleteComment(id).then(() => {
+    GetComments(data.id).then((response) => setComments(response));
+   })
   }
 
   return(
@@ -60,11 +67,11 @@ export default function Details() {
               <form className={styles.containerForm} onSubmit={handleSubmit(onSubmit)}>
 
                 <div className={styles.field}>
-                  <label for="email">E-mail</label>
+                  <label htmlFor="email">E-mail</label>
                   <input type="email" placeholder='Digite seu e-mail...' {...register("email")}/>
                 </div>
                 <div className={styles.field}>
-                  <label for="comment">Comentário</label>
+                  <label htmlFor="comment">Comentário</label>
                   <input type="text" placeholder='Digite seu comentário...' {...register("comment")}/>
                 </div>
 
@@ -74,7 +81,7 @@ export default function Details() {
 
               <div className={styles.listComments}>
 
-                {comments ? comments.map(item => <Comentario email={item.email} comment={item.comment} />) : "" }
+                {comments ? comments.map(item => <Comentario key={item.id} email={item.email} comment={item.comment} deleteFunction={() => deleteF(item.id)}/>) : "" }
                 
               </div>
       </div>
