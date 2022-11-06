@@ -15,7 +15,7 @@ export default function Details() {
   const { data } = localizacao.state;
   const [rating, setRating] = useState(data.rating);
   const [comments, setComments] = useState(null);
-  const { register, handleSubmit } = useForm();
+  const { register, handleSubmit, reset } = useForm();
   
   useEffect(() => {
     GetComments(data.id).then((response) => setComments(response))
@@ -32,6 +32,7 @@ export default function Details() {
     PostComment(dataForm).then(() => {
       GetComments(data.id).then((response) => setComments(response));
     });
+    reset()
   }
 
   const deleteF = (id) => {

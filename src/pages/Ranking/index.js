@@ -2,6 +2,7 @@ import styles from './Ranking.module.css';
 
 import RankingCard from '../../components/RankingCard';
 
+
 import GetMovies from '../../services/getMovies';
 
 import { useContext, useEffect } from 'react';
@@ -21,7 +22,7 @@ export default function Ranking() {
       <h1 className={styles.h1}>Filmes mais bem avaliados</h1>
       <div className={styles.containerOrdenado}>
         {ordenado.map((item, index) => (
-           (<RankingCard key={item.id} movie={item} index={index+1}/>) 
+           (<RankingCard key={item.id} movie={item} index={index+1} />) 
         ))}
       </div>
     </>

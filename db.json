@@ -1,10 +1,16 @@
 {
   "comments": [
     {
-      "email": "gf.oliveiralucas@gmail.com",
-      "comment": "Um comentario pertinente para que tenhamos uma melhor visualização do mesmo",
+      "email": "sdjskjsdjks@gmail.com",
+      "comment": "ddfdsdfsdsdf",
       "idMovie": 3,
-      "id": 2
+      "id": 3
+    },
+    {
+      "email": "tgrgrtrt@gmail.com",
+      "comment": "edfsdfsdfsdsdfsd",
+      "idMovie": 1,
+      "id": 4
     }
   ],
   "movies": [
@@ -107,7 +113,7 @@
         "Aldo Grilo"
       ],
       "sinopse": "Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.",
-      "rating": 5,
+      "rating": 10,
       "genero": "Terror"
     },
     {
@@ -277,7 +283,7 @@
         "Alan Fudge"
       ],
       "sinopse": "Peg Boggs (Dianne Wiest) é uma vendedora da Avon que acidentalmente descobre Edward (Johnny Depp), um jovem que mora sozinho em um castelo no topo de uma montanha e que na verdade foi criado por um inventor (Vincent Price), que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos, mas ele dá vazão à sua solidão interior ao podar a vegetação em forma de figuras ou esculpir lindas imagens no gelo. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros.",
-      "rating": 0,
+      "rating": 40,
       "genero": "Romance"
     },
     {
@@ -328,7 +334,7 @@
         "Aaron Glaser"
       ],
       "sinopse": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
-      "rating": 25,
+      "rating": 30,
       "genero": "Comédia"
     }
   ]

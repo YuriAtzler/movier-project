@@ -16,6 +16,18 @@ body {
   box-sizing: border-box;
 }
 
+body::-webkit-scrollbar {
+  width: 12px;
+  border-radius: 20px;
+}
+
+body::-webkit-scrollbar-thumb {
+  width: 18px;
+  background-color: var(--laranja-principal) ;
+  border-radius: 20px;
+  border: solid 3px var(--branco-bg);
+}
+
 h1,h2, h3, h4, h5, h6, p {
   margin: 0;
   padding: 0;

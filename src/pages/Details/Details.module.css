@@ -148,4 +148,9 @@ ul {
   font-size: 1.125rem;
   transition: all ease 0.2s;
   border: 2px solid var(--preto);
+  cursor: pointer;
+}
+
+.submit:hover {
+  opacity: 0.8;
 }

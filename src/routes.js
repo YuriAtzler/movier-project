@@ -21,7 +21,7 @@ export default function AppRoutes() {
             <Route path='/categorias' element={<Categorias />} />
             <Route path='/details' element={<Details />} />
             <Route path='/ranking' element={<Ranking />} />
-            <Route path="*" element={<NotFound />} />
+            <Route path='*' element={<NotFound />} />
           </Routes >
         </div>
         <Footer />

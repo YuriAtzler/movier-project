@@ -109,3 +109,9 @@
   .likes button:hover span {
     opacity: 0.75;
   }
+
+.rating img {
+  margin-top: 20px;
+  border: none;
+  width: 140px;
+}
