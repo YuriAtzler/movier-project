@@ -1,8 +1,10 @@
 import styles from './Categorias.module.css';
 import { useEffect } from 'react';
+
 import GetMovies from '../../services/getMovies';
+
 import CategoriasMenu from '../../components/CategoriasMenu';
-import FilmeCard from '../../components/FilmeCard'
+import FilmeCard from '../../components/FilmeCard';
 
 import { useContext } from 'react';
 import { GeneroContext } from '../../contexts/generoContexts';
@@ -14,7 +16,7 @@ export default function Categorias() {
 
   useEffect(() => {
     GetMovies().then((response) => setMovies(response))
-  }, [])
+  }, [setMovies])
 
   return (
     <>

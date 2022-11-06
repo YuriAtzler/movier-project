@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Categorias from "./pages/Categorias";
 import Details from "./pages/Details";
+import Ranking from "./pages/Ranking";
 
 export default function AppRoutes() {
   return (
@@ -19,7 +20,7 @@ export default function AppRoutes() {
             <Route path='/' element={<Home />} />
             <Route path='/categorias' element={<Categorias />} />
             <Route path='/details' element={<Details />} />
-            <Route />
+            <Route path='/ranking' element={<Ranking />} />
             <Route path="*" element={<NotFound />} />
           </Routes >
         </div>

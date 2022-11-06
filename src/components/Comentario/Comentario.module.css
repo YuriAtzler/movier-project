@@ -1,6 +1,5 @@
 .comment {
   display: flex;
-
   justify-content: space-between;
   background-color: var(--branco-bg);
   padding: 1rem;
@@ -8,6 +7,7 @@
   margin-top: 20px;
   border-radius: 8px;
 }
+
 .comment div{
   display: flex;
   flex-direction: column;
@@ -22,6 +22,7 @@
   border: none;
   outline: none;
 }
+
 .comment button:hover{
   color: var(--laranja-principal);
   cursor: pointer;

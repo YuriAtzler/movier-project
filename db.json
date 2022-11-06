@@ -22,7 +22,7 @@
         "Jeremy Ray Taylor"
       ],
       "sinopse": "Um grupo de garotos maltratados se une para destruir um monstro que se disfarça de palhaço e ataca as crianças de sua pequena cidade.",
-      "rating": 72,
+      "rating": 250,
       "genero": "Terror"
     },
     {
@@ -56,7 +56,7 @@
         "Dash Mihok"
       ],
       "sinopse": "Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Portanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente.",
-      "rating": 20,
+      "rating": 33,
       "genero": "Terror"
     },
     {
@@ -141,7 +141,7 @@
         "Abe Pagtama"
       ],
       "sinopse": "",
-      "rating": 0,
+      "rating": 20,
       "genero": ""
     },
     {
@@ -314,7 +314,6 @@
       "rating": 32,
       "genero": "Terror"
     },
-    
     {
       "id": 19,
       "titulo": "O Lobo de Wall Street",
@@ -331,6 +330,6 @@
       "sinopse": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
       "rating": 0,
       "genero": "Comédia"
-  }
+    }
   ]
 }

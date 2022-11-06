@@ -10,10 +10,11 @@ export default function Home() {
 
   useEffect(() => {
     GetMovies().then((response) => setMovies(response))
-  }, [])
+  }, [setMovies])
 
   return (
     <main>
+      <h1>Filmes</h1>
       <div className={styles.containerList}>
         {movies ? movies.map((item) => ( (<FilmeCard key={item.id} movie={item} />) )) : ""}
       </div>

@@ -1,3 +1,8 @@
+main h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+
 .containerList {
   display: flex;
   align-items: center;
